@@ -1,8 +1,8 @@
 {
   "name": "Inner Rhythm",
   "short_name": "Inner Rhythm",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "https://www.yourinnerrhythm.com/",
+  "scope": "https://www.yourinnerrhythm.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
