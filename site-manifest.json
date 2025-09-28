@@ -2,7 +2,7 @@
   "name": "Inner Rhythm",
   "short_name": "Inner Rhythm",
   "id": "https://www.yourinnerrhythm.com/",
-  "start_url": "https://www.yourinnerrhythm.com/?a2hs=1",
+  "start_url": "https://www.yourinnerrhythm.com/library",
   "scope": "https://www.yourinnerrhythm.com/",
   "display": "standalone",
   "background_color": "#ffffff",
