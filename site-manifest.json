@@ -1,0 +1,23 @@
+{
+  "name": "Inner Rhythm",
+  "short_name": "Inner Rhythm",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://static1.squarespace.com/static/689c9b04e05f41031fbe67ac/t/68d946b7d259b851bbc4fa6a/1759069879907/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://static1.squarespace.com/static/689c9b04e05f41031fbe67ac/t/68d946bd777e1543fca75f85/1759069885749/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
